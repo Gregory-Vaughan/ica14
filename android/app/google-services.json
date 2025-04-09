@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189103015572",
+    "project_id": "ica14-9144c",
+    "storage_bucket": "ica14-9144c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189103015572:android:56be04236fabef9e679681",
+        "android_client_info": {
+          "package_name": "com.MAD.ica14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWlsqz8IarFTWWwiKmjheyFEIoyh8Yr1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189103015572:android:cba3447b27756612679681",
+        "android_client_info": {
+          "package_name": "com.example.ica14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWlsqz8IarFTWWwiKmjheyFEIoyh8Yr1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
